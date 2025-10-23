@@ -1,0 +1,8 @@
+public class nomeidade {
+    public static void main(String[]args){
+String nome = "Marina";
+int idade = 15;
+
+system.out.println("Meu nome é" + nome + "e eu tenho " + idade + "anos. ")
+    }
+}
