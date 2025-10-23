@@ -1,0 +1,10 @@
+public class salariomensal {
+    public static void main(String[] args) {
+        double valorHora = 25.0;
+        int horasTrabalhadas = 160;
+
+        double salario = valorHora * horasTrabalhadas;
+
+        System.out.println("O total do salário no mês é: R$ " + salario);
+    }
+}
